@@ -5,7 +5,7 @@ Rosetta Song is a web application that is meant to allow users to transfer playl
 
 ## UX Team Members
 
-* **[Hayat White]((https://github.com/ChicoState/ux-personal-portfolio-Hayat-White)) - !!!List of Person A's primary contributions!!!
+* [Hayat White]((https://github.com/ChicoState/ux-personal-portfolio-Hayat-White)) - !!!List of Person A's primary contributions!!!
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
