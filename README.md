@@ -1,6 +1,6 @@
 # Rosetta Song
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+
 Rosetta Song is a web application that is meant to allow users to transfer playlists from one music streaming service to another. The problem that this is meant to address and solve, is the time sink that occurs when someone who listens to music changes streaming services and wants to keep their playlists.
 
 ## UX Team Members
