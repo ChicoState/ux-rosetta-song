@@ -1,8 +1,8 @@
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
 ## Introduction
-
-!!! Describe the general problem that the project is trying to solve !!!
+## Phase I: Analyzing Users, Competitors, and Initial Designs
+Rosetta Song is an app that is trying to bridge the gaps that seperates users of differetn music streaming services, so they are able to interact as one big community.  This primarily means that users with playlists on one platform will now be able to share their playlists with users on other platform with very little effort.  The focus of phase one was primarily focused on deciding what features would be needed to make Rosetta Song stand out from its competators.
 
 ## Methods
 
