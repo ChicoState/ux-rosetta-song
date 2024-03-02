@@ -34,6 +34,7 @@ Due to the nature of the small transfer playlist market, there are not many innn
 
 ### Competative Analysis
 
+
 ## Caveats
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
