@@ -33,7 +33,7 @@ Due to the nature of the small transfer playlist market, there are not many innn
 
 
 ### Competitive Analysis
-Looking into the problem solution domain allowed us to discover the current issues and what people are enjoying about the services. One early discovery from our competitive analysis is that this product is desired for the problem domain. 
+Looking into the problem solution domain allowed us to discover the current issues and what people are enjoying about the services. One early discovery from our competitive analysis is that this product is desired for the problem domain. The main issues surrounding the solution domain is actual functionality. Many issues users had with other solutions were based around incomplete functionality and inability to transfer between certain services. These services also offered little user customization for playlists. Some positives from these other products were user statistics, allowing users to play music on the site or application, and sharing playlists with other users. Using this, our designs should focus functionality then work to allow users to customize playlists, see playlist and song statistics, allow users to play music through the site and allow sharing through the site. 
 
 ## Caveats
 
