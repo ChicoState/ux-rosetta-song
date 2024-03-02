@@ -22,10 +22,10 @@ Rosetta Song is a web application that is meant to allow users to transfer playl
 
 **Executive Summary**
 
-* Created and organized Personas and Scenarios, this helped define the types of uses and users we could have
-* Competitive Analysis, establishes the current solution base and areas of improvement
-* Competitive Heuristic Evaluations, shows where the competitors could be improving, where we can fill in
-* Design structure and User Feedback, defines overall design and grabs initial user feedback from MVP demo
+* **Created** and **Organized** **Personas** and **Scenarios**, this helped define the types of uses and users we could have
+* **Competitive Analysis**, establishes the current solution base and areas of improvement
+* **Competitive Heuristic Evaluations**, shows where the competitors could be improving, where we can fill in
+* **Design structure** and **User Feedback**, defines overall design and grabs initial user feedback from MVP demo
 
 [Full phase I report](phaseI/)
 
