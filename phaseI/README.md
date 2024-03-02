@@ -32,8 +32,8 @@ The competitive analysis helped our team establish the current problem solution 
 Due to the nature of the small transfer playlist market, there are not many innnovations that can be made wihtout complicating the simple proccess of moving playlists between streaming services, however there are a number of things that need to be avoided in order to be better than competators. The most glaring issue that the top competator had was major errors and a lack of support for fixing them. The starting point for this issue would be to include a confirm screen and a warning for potentially ireversable actions. Another big thing our team noticed was the lack of customization for the user. Much of the app looked good, but a couple of the menus were notably laid out poorly and no way to move them around like there would be on a streaming service like spotify. A basic level of customization would fix a majority of this issue. Features like a way to search or sort the playlist tiles would drastically improve the flexibility of use for an app in this space.
 
 
-### Competative Analysis
-
+### Competitive Analysis
+Looking into the problem solution domain allowed us to discover the current issues and what people are enjoying about the services. One early discovery from our competitive analysis is that this product is desired for the problem domain. 
 
 ## Caveats
 
