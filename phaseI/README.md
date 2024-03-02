@@ -9,7 +9,7 @@ Rosetta Song is an app that is trying to bridge the gaps that seperates users of
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
 ### Heuristic Evaluation
-We had each member of the UX team perform a heuristic evaluation on the most popular playslist transfering web app called Soundiz.  We used Jakob Neilson's 10 heuristics as the parameters and compared the evaluation of each member to see if there were any large differences between them. The purpose of heuristic evaluation was to find places where competators have done well, as well as where they have done poorly to ensure that we don't have the same issues that they do.
+Each member of the Rosetta Song UX team perform a heuristic evaluation on the most popular competor in out market, in the scope of playlists transfering, this is a subscription based web app called Soundiz.  We used Jakob Neilson's 10 heuristics as the parameters of our evaluation. We then compared the scores and information provided by each member to draw conclusions. The purpose of heuristic evaluation was to find places where competators have done well, as well as where they have done poorly to ensure that we don't have the same issues that they do.
 
 
 
