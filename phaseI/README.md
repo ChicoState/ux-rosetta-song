@@ -9,10 +9,19 @@ Rosetta Song is an app that is trying to bridge the gaps that seperates users of
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
 ### Heuristic Evaluation
-Each member of the Rosetta Song UX team perform a heuristic evaluation on the most popular competor in out market. in the scope of playlists transfering, this is a subscription based web app called Soundiz.  We used Jakob Neilson's 10 heuristics as the parameters of our evaluation. We then compared the scores and information provided by each member to draw conclusions. The purpose of heuristic evaluation was to find places where competators have done well, as well as where they have done poorly to ensure that we don't have the same issues that they do.
+Each member of the Rosetta Song UX team performed a heuristic evaluation on the most popular competor in out market. In the scope of playlists transfering, this is a subscription based web app called Soundiz.  We used Jakob Neilson's 10 heuristics as the parameters of our evaluation. We then compared the scores and information provided by each member to draw conclusions. The purpose of heuristic evaluation was to find places where competators have done well, as well as where they have done poorly to ensure that we don't have the same issues that they do.
 
 ### Competitive Analysis
 The Rosetta Song UX team performed a compeitive analysis where we first gathered competitive products. We then examined strengths, weaknesses, a quality level ranging from high to low, the price or cost of using the service and where this service was accessible from. The purpose of the competitive analysis was to identify competitors and examine their products to inform our design process. This process also helped us define what are target demographic is for our product.
+
+### Personas and Scenarios
+Our team worked together to create several personas and scenarios to help us better understand our target demographic. Using broad generalizations of possible users, we created five distinct personas covering a wide range of important qualities such as age, profession, and hobbies. It is important that we understand the backgrounds of people who could potentially be using our product so we can cater the experience to them. We then put each persona into an individual scenario that could lead to the use of our product. This process can help us focus the scope of our project and define the specific context associated with our Rosetta Song product.
+
+### Sketches
+Each member of our team designed rough sketches of what our product could look like. After coming together and analyzing the sketches, we settled on two rough outlines of a basic model of our product. These sketches consisted of displays of our home screen and service layout, as well as an idea for a sign-in process. Within this, we also included a possible error system regarding duplicate or unfound songs. We did this to generate ideas and provide our software engineering team with a rough idea of what we could expect the product to look like.
+
+### User Questions
+The Rosetta Song UX team designed three questions to ask users that would help us define some of our products features. These included playing music locally, service options, and how to handle song errors. We have provided our software engineers this list of questions to present at their first demonstraion.
 
 ## Findings
 
