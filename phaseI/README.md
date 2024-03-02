@@ -12,6 +12,7 @@ Rosetta Song is an app that is trying to bridge the gaps that seperates users of
 Each member of the Rosetta Song UX team perform a heuristic evaluation on the most popular competor in out market, in the scope of playlists transfering, this is a subscription based web app called Soundiz.  We used Jakob Neilson's 10 heuristics as the parameters of our evaluation. We then compared the scores and information provided by each member to draw conclusions. The purpose of heuristic evaluation was to find places where competators have done well, as well as where they have done poorly to ensure that we don't have the same issues that they do.
 
 ### Competitive Analysis
+The Rosetta Song UX team performed a compeitive analysis where we first gathered competitive products. We then examined strengths, weaknesses, a quality level ranging from high to low, the price or cost of using the service and where this service was accessible from. The purpose of the competitive analysis was to identify competitors and examine their products to inform our design process. This process also helped us define what are target demographic is for our product.
 
 ## Findings
 
