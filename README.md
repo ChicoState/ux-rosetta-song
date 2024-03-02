@@ -22,10 +22,10 @@ Rosetta Song is a web application that is meant to allow users to transfer playl
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Created and organized Personas and Scenarios 
+* Competitive Analysis 
+* Heuristic Evaluations
+* Design structure and User Feedback 
 
 [Full phase I report](phaseI/)
 
