@@ -59,7 +59,7 @@ Our research within personas and scenarios opened our eyes to the simplicity of 
 Upon mapping the process of our product, we made several insights that affected its future design. One of our sketches showed a possible error scenario that occurs when there is an error with songs. We had not thought of this situation prior and it led to one of our user questions that asks the user what should happen when a song errors. Our sketches also revealed multiple options for the sharing feature of our product. We have seen examples of playlists being created within the product, and also directly into the streaming service. We were unsure of what would be the best so we turned this issue into a user question as well. 
 
 ### User Feedback
-Our user questions have not been presented to users at this time so our insights are very little. These questions should help us identify what services we should prioritize including in our product and the basic features that are essential for a smooth experience.
+Our user questions have not been presented to users at this time so our insights are very little. These questions should help us identify what services we should prioritize in our product and the basic features that are essential for a smooth experience.
 
 ## Caveats
 
