@@ -40,16 +40,26 @@ The personas and scenarios helped our team better understand our target demograp
 Our sketches allowed our team to lay a foundation for the product design moving forward. We were able to come to a collective agreement on how our product should look and work as we continue to design it.
 
 ### User Questions
-Altough we asnwered our own questions and provided some insight, the questions are meant for the first demonstration of our product which we will not be recieving any feedback for at this moment. We hope the feedback provides us with ideas for new features and changes for planned features.
+Although we answered our own questions and provided some insight, the questions are meant for the first demonstration of our product which we will not be receiving any feedback for at this moment. We hope the feedback provides us with ideas for new features and changes for planned features.
+
+## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
 ### Heuristic Evaluation
 Due to the nature of the small transfer playlist market, there are not many innnovations that can be made wihtout complicating the simple proccess of moving playlists between streaming services, however there are a number of things that need to be avoided in order to be better than competators. The most glaring issue that the top competator had was major errors and a lack of support for fixing them. The starting point for this issue would be to include a confirm screen and a warning for potentially ireversable actions. Another big thing our team noticed was the lack of customization for the user. Much of the app looked good, but a couple of the menus were notably laid out poorly and no way to move them around like there would be on a streaming service like spotify. A basic level of customization would fix a majority of this issue. Features like a way to search or sort the playlist tiles would drastically improve the flexibility of use for an app in this space.
 
-
 ### Competitive Analysis
 Looking into the problem solution domain allowed us to discover the current issues and what people are enjoying about the services. One early discovery from our competitive analysis is that this product is desired for the problem domain. The main issues surrounding the solution domain is actual functionality. Many issues users had with other solutions were based around incomplete functionality and inability to transfer between certain services. These services also offered little user customization for playlists. Some positives from these other products were user statistics, allowing users to play music on the site or application, and sharing playlists with other users. Using this, our designs should focus functionality then work to allow users to customize playlists, see playlist and song statistics, allow users to play music through the site and allow sharing through the site. 
+
+### Personas and Scenarios
+Our research within personas and scenarios opened our eyes to the simplicity of our product. Upon seeing that many of our scenarios were similar, we concluded that our original product might be too simple and not unique enough to set us apart from our competitors. We did not have a way to draw the user back into our product after they used it the first time. Most cases were just one user moving their playlists from one service to another and then being done with our product. This was great information because it led to many new ideas that would not only add more features to our product but also differentiate us from the competitors.
+
+### Sketches
+Upon mapping the process of our product, we made several insights that affected its future design. One of our sketches showed a possible error scenario that occurs when there is an error with songs. We had not thought of this situation prior and it led to one of our user questions that asks the user what should happen when a song errors. Our sketches also revealed multiple options for the sharing feature of our product. We have seen examples of playlists being created within the product, and also directly into the streaming service. We were unsure of what would be the best so we turned this issue into a user question as well. 
+
+### User Questions
+Our user questions have not been presented to users at this time so our insights are very little. These questions should help us identify what services we should prioritize including in our product and the basic features that are essential for a smooth experience.
 
 ## Caveats
 
