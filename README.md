@@ -7,8 +7,8 @@ Rosetta Song is a web application that is meant to allow users to transfer playl
 
 * [Hayat White](https://github.com/ChicoState/ux-personal-portfolio-Hayat-White) - Heuristic Evaluation, Competative Analysis, Drew conclusions from research to write report
 * [Riley Spas](https://github.com/ChicoState/ux-personal-portfolio-rileyspas21) - Heuristic Evaluation, Competative Analysis, Drew conclusions from research to write report
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - Heuristic Evaluation, Competative Analysis, Drew conclusions from research to write report
-
+* [Sean Evpak](https://github.com/ChicoState/ux-personal-portfolio-sevpak) - Heuristic Evaluation, Competative Analysis, Drew conclusions from research to write report
+  
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
