@@ -33,7 +33,14 @@ The Heuristic evaluation revealed many pros about Soundiz, but we were able to c
 ### Competitive Analysis
 The competitive analysis helped our team establish the current problem solution domain. This allowed us to determine that users want clean sites that provide the basic features without pay walls. This includes proper transfer between services, user customization, communication between users and general setup. Some issues on sites included users losing all playlist on all services which means basic functionality is vital.
 
-## Conclusions
+### Personas and Scenarios
+The personas and scenarios helped our team better understand our target demographic and possible use situations. Our research showed us how wide our range of users could be and showed us that we have to think a little broader in terms of demographics. However, regardless of persona, we noticed that the scenarios we all relatively similar. Most users would be using our product for one specific purpose. These insights led to new ideas for product features and design.
+
+### Sketches
+Our sketches allowed our team to lay a foundation for the product design moving forward. We were able to come to a collective agreement on how our product should look and work as we continue to design it.
+
+### User Questions
+Altough we asnwered our own questions and provided some insight, the questions are meant for the first demonstration of our product which we will not be recieving any feedback for at this moment. We hope the feedback provides us with ideas for new features and changes for planned features.
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 
