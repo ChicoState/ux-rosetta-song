@@ -17,10 +17,10 @@ The Rosetta Song UX team performed a compeitive analysis where we first gathered
 ### Personas and Scenarios
 Our team worked together to create several personas and scenarios to help us better understand our target demographic. Using broad generalizations of possible users, we created five distinct personas covering a wide range of important qualities such as age, profession, and hobbies. It is important that we understand the backgrounds of people who could potentially be using our product so we can cater the experience to them. We then put each persona into an individual scenario that could lead to the use of our product. This process can help us focus the scope of our project and define the specific context associated with our Rosetta Song product.
 
-### Sketches
+### Design Structure
 Each member of our team designed rough sketches of what our product could look like. After coming together and analyzing the sketches, we settled on two rough outlines of a basic model of our product. These sketches consisted of displays of our home screen and service layout, as well as an idea for a sign-in process. Within this, we also included a possible error system regarding duplicate or unfound songs. We did this to generate ideas and provide our software engineering team with a rough idea of what we could expect the product to look like.
 
-### User Questions
+### User Feedback
 The Rosetta Song UX team designed three questions to ask users that would help us define some of our products features. These included playing music locally, service options, and how to handle song errors. We have provided our software engineers this list of questions to present at their first demonstraion.
 
 ## Findings
@@ -36,10 +36,10 @@ The competitive analysis helped our team establish the current problem solution 
 ### Personas and Scenarios
 The personas and scenarios helped our team better understand our target demographic and possible use situations. Our research showed us how wide our range of users could be and showed us that we have to think a little broader in terms of demographics. However, regardless of persona, we noticed that the scenarios we all relatively similar. Most users would be using our product for one specific purpose. These insights led to new ideas for product features and design.
 
-### Sketches
+### Design Structure
 Our sketches allowed our team to lay a foundation for the product design moving forward. We were able to come to a collective agreement on how our product should look and work as we continue to design it.
 
-### User Questions
+### User Feedback
 Although we answered our own questions and provided some insight, the questions are meant for the first demonstration of our product which we will not be receiving any feedback for at this moment. We hope the feedback provides us with ideas for new features and changes for planned features.
 
 ## Conclusions
@@ -55,10 +55,10 @@ Looking into the problem solution domain allowed us to discover the current issu
 ### Personas and Scenarios
 Our research within personas and scenarios opened our eyes to the simplicity of our product. Upon seeing that many of our scenarios were similar, we concluded that our original product might be too simple and not unique enough to set us apart from our competitors. We did not have a way to draw the user back into our product after they used it the first time. Most cases were just one user moving their playlists from one service to another and then being done with our product. This was great information because it led to many new ideas that would not only add more features to our product but also differentiate us from the competitors.
 
-### Sketches
+### Design Structure
 Upon mapping the process of our product, we made several insights that affected its future design. One of our sketches showed a possible error scenario that occurs when there is an error with songs. We had not thought of this situation prior and it led to one of our user questions that asks the user what should happen when a song errors. Our sketches also revealed multiple options for the sharing feature of our product. We have seen examples of playlists being created within the product, and also directly into the streaming service. We were unsure of what would be the best so we turned this issue into a user question as well. 
 
-### User Questions
+### User Feedback
 Our user questions have not been presented to users at this time so our insights are very little. These questions should help us identify what services we should prioritize including in our product and the basic features that are essential for a smooth experience.
 
 ## Caveats
