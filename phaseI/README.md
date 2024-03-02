@@ -21,6 +21,9 @@ The Rosetta Song UX team performed a compeitive analysis where we first gathered
 ### Heuristic Evaluation
 The Heuristic evaluation revealed many pros about Soundiz, but we were able to conclude the heuristic categories where it was lacking; those being: error prevention, match between system and real life, flexibility of use and helping users diagnose and recover from errors. Many of the user reviews of the paid version mentioned a specific catestrophic error that was irreversable.
 
+### Competitive Analysis
+The competitive analysis helped our team establish the current problem solution domain. This allowed us to determine that users want clean sites that provide the basic features without pay walls.
+
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
