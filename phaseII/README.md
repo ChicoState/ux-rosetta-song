@@ -2,9 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
-
-Our report last left the team with a single button on a page. All of our questions/objectives were lingering except linking Spotify. Our software engineers have been focused on adding account verification for various services, which now are able to verify and login users into Youtube and Spotify. This sprint primarily focused on creating a higher fidelity verion of our application and how users would ineract with the software.
+Our report last left the team with a single button on a page. All of our questions/objectives were lingering except linking Spotify. Our software engineers have been focused on adding account verification for various services, which now are able to verify and login users into Youtube and Spotify. This sprint primarily focused on creating a higher fidelity verion of our application, and taking note of how users would ineract with the software. This allowed us to make changes to our design to make it as easy as possible for users to accomplish their goals.
 
 ## Methods
 
