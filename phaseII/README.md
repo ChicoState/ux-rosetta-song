@@ -38,7 +38,7 @@ Our report last left the team with a single button on a page. All of our questio
 
 !!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
 ### Cognitive walkthrough
-!!!FILL IN FOR COGNITIVE WALKTHROUGH
+One caveat of the performed cognitive walkthroughs is that the wireframe was not finished at the time of review, and while the input is still helpful, much of the personas ran into the same issues. This limited the scope of the feedback.  Another caveat is inherent to all cognitive walkthroughs, and is that the person performing the cognitive walktrhough is making an assumption of the user's knowledge, which may not perfeclty align with the target persona.
 
 ### Informal Feedback
 !!!FILL IN FOR INFORMAL FEEDBACK
