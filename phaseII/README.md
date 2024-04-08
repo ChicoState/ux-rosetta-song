@@ -4,6 +4,8 @@
 
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
 
+Our report last left the team with a single button on a page. All of our questions/objectives were lingering except linking Spotify. Our software engineers have been focused on adding account verification for various services, which now are able to verify and login users into Youtube and Spotify. This sprint primarily focused on creating a higher fidelity verion of our application and how users would ineract with the software.
+
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
