@@ -23,8 +23,7 @@ When our software team demonstrated the progress of the development of the Roset
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
 ### Informal Feedback
-From the informal feedback we were able to determine that the main platforms preferred by users were Spotify and Apple Music, YouTube Music, and some mentions from Soundcloud, Amazon Music, Tidal and Antennapod.
-
+From the informal feedback we were able to determine that the main platforms preferred by users were Spotify and Apple Music, YouTube Music, and some mentions from Soundcloud, Amazon Music, Tidal and Antennapod. We were also informed that users would like to be prompted and asked which version of a song should be added to the new service, when the new service has multiple of the same song (cover songs, remixes, etc), but there was also some feedback saying that users might like a toggle for this feature. Users were in favor of podcasts also being moved between services in the future.
 
 ## Conclusions
 
