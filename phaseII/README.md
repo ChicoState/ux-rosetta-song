@@ -5,20 +5,8 @@
 Our report last left the team with a single button on a page. All of our questions and objectives were lingering except linking Spotify. Our software engineers have been focused on adding account verification for various services, which now are able to verify and login users into Youtube and Spotify. This sprint primarily focused on creating a higher fidelity version of our application, and taking note of how users would interact with the software. This allowed us to make changes to our design to make it as easy as possible for users to accomplish their goals.
 
 ## Wireframe
-!!!INCLUDE SEPERATE FOLDER LINKED HERE THAT EXPLAINS THE WIREFRAME AND HAS SCREENSHOTS 
-![Frame1](../wireframes/1.png)
-![Frame2](../wireframes/2.png)
-![Frame3ALL](../wireframes/3/3-ALL.png)
 
-
-!!! WE MIGHT WANT TO INCLUDE EACH SCREEN INDEVIDUALLY (THEY ARE IN THE WIREFRAMES FOLDER ALREADY)
-
-
-![Frame4ALL](../wireframes/4/4-ALL.png)
-![Frame5ALL](../wireframes/5/5-ALL.png)
-![Frame6](../wireframes/6.png)
-
-
+!!LINK TO WIREFRAMES README>MD
 
 ## Methods
 
