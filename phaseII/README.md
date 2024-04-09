@@ -6,12 +6,12 @@ Our report last left the team with a single button on a page. All of our questio
 
 ## Wireframe
 !!!INCLUDE SEPERATE FOLDER LINKED HERE THAT EXPLAINS THE WIREFRAME AND HAS SCREENSHOTS
-![Frame1](wireframes/1.png)
-![Frame2](wireframes/2.png)
-![Frame3ALL](wireframes/3/3-ALL.png)
-![Frame4ALL](wireframes/4/4-ALL.png)
-![Frame5ALL](wireframes/5/5-ALL.png)
-![Frame6](wireframes/6.png)
+![Frame1](ux-rosetta-song/wireframes/1.png)
+![Frame2](ux-rosetta-song/wireframes/2.png)
+![Frame3ALL](ux-rosetta-song/wireframes/3/3-ALL.png)
+![Frame4ALL](ux-rosetta-song/wireframes/4/4-ALL.png)
+![Frame5ALL](ux-rosetta-song/wireframes/5/5-ALL.png)
+![Frame6](ux-rosetta-song/wireframes/6.png)
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
