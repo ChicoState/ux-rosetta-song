@@ -23,7 +23,7 @@ When our software team demonstrated the progress of the development of the Roset
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
 ### Informal Feedback
-What music services other than Apple Music, Spotify or Youtube Music do you use, if any?
+From the informal feedback we were able to determine that the main platforms preferred by users were Spotify and Apple Music, YouTube Music, and some mentions from Soundcloud, Amazon Music, Tidal and Antennapod.
 
 
 ## Conclusions
