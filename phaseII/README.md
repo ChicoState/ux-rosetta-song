@@ -6,12 +6,12 @@ Our report last left the team with a single button on a page. All of our questio
 
 ## Wireframe
 !!!INCLUDE SEPERATE FOLDER LINKED HERE THAT EXPLAINS THE WIREFRAME AND HAS SCREENSHOTS
-![Frame1](1.png)
-![Frame2](2.png)
-![Frame3ALL](3-ALL.png)
-![Frame4ALL](4-ALL.png)
-![Frame5ALL](5-ALL.png)
-![Frame6](6.png)
+![Frame1](wireframes/1.png)
+![Frame2](wireframes/2.png)
+![Frame3ALL](wireframes/3/3-ALL.png)
+![Frame4ALL](wireframes/4/4-ALL.png)
+![Frame5ALL](wireframes/5/5-ALL.png)
+![Frame6](wireframes/6.png)
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
