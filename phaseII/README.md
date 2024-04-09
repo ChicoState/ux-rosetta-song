@@ -14,7 +14,7 @@ Our report last left the team with a single button on a page. All of our questio
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
 ### Informal Feedback
-!!!FILL IN FOR INFORMAL FEEDBACK
+When our software team demonstrated the progress of the development of the Rosetta Song app, they asked the class a few questions to try to gauge what users would like implemented into the app. The response from the software class was used as informal feedback in order to make design decisions for the app.  The software team asked the questions in person while showing the progress on the app, and then relayed the classes response to the UX team in order to determine findings and draw conclusions.
 
 ## Findings
 
