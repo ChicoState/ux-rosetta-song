@@ -13,7 +13,8 @@ Our report last left the team with a single button on a page. All of our questio
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
 ### Informal Feedback
-When our software team demonstrated the progress of the development of the Rosetta Song app, they asked the class a few questions to try to gauge what users would like implemented into the app. The response from the software class was used as informal feedback in order to make design decisions for the app.  The software team asked the questions in person while showing the progress on the app, and then relayed the classes response to the UX team in order to determine findings and draw conclusions.
+When our software team demonstrated the progress of the development of the Rosetta Song app, they asked the class a few questions to try to gauge what users would like implemented into the app. The response from the software class was used as informal feedback in order to make design decisions for the app.  The software team asked the questions in person while showing the progress on the app, and then relayed the classes response to the UX team in order to determine findings and draw conclusions. The exact questions we had the software team ask were: What music services other than Apple Music, Spotify or Youtube Music do you use, if any?, If a song title has multiple listings with different artists, would you rather have the song automatically be grabbed or asked for a specific version? (example: cover songs, remixes, etc), Would you be interested in the addition of podcasts for this application?
+
 
 ## Findings
 
