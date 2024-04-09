@@ -6,7 +6,7 @@ Our report last left the team with a single button on a page. All of our questio
 
 ## Wireframe
 !!!INCLUDE SEPERATE FOLDER LINKED HERE THAT EXPLAINS THE WIREFRAME AND HAS SCREENSHOTS
-![Frame1](ux-rosetta-song/wireframes/1.png)
+![Frame1](wireframes/1.png)
 ![Frame2](ux-rosetta-song/wireframes/2.png)
 ![Frame3ALL](ux-rosetta-song/wireframes/3/3-ALL.png)
 ![Frame4ALL](ux-rosetta-song/wireframes/4/4-ALL.png)
