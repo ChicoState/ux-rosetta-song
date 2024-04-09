@@ -9,7 +9,6 @@ Our report last left the team with a single button on a page. All of our questio
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 ### Cognitive walkthrough
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
