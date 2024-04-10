@@ -18,7 +18,6 @@ When our software team demonstrated the progress of the development of the Roset
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 ### Cognitive walkthrough
 The Cognitive Walkthroughs that were provided for our team gave great insights into our possible failures and successes. To begin, for our persona Amber Green who was evaluated by Lizet Gutierrez, we learned that Amber's task of sharing playlists through the site is currently not achievable. For the next person, we have Jessica Conner, who was evaluated by Anthony Pecoraro, where we learned that Jessica would follow the intended first steps of the site because they showed progression toward the goal. Ultimately, Jessica was unable to complete her goal due to the state of the wireframes at that time. The next person is John Bill, who was evaluated by Dominick Duran, where we learned that confirmation pages for playlist transfer will help clear some user confusion. The next person Ronnie Johnson, who was evaluated by Eric Galvan, we learned there needs to be clear indications of the transferring of music from one service to another.
 
