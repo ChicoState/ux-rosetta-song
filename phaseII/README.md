@@ -31,8 +31,7 @@ From the informal feedback we were able to determine that the main platforms pre
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
 ### Informal Feedback
-!!!FILL IN FOR INFORMAL FEEDBACK
-Based on the informal feedback we can conclude that while many streaming services would make great additions to the Rosetta Song app, Youtube Muisc, Apple Music and Spotify are by far the most prevalent, and these three platforms are much higher priority to get working. When asked, reviewers said that they wanted to be prompted for which version of each song that is being transfered, however most popular songs have multiple versions. This would likely become tedious and take away from user experience. We have decided that a toggle switch for this feature should be available for those who want it, but it will be turned off by default, and instead select the most popular verion of each given song.
+Based on the informal feedback we can conclude that while many streaming services would make great additions to the Rosetta Song app, Youtube Music, Apple Music and Spotify are by far the most prevalent, and these three platforms are much higher priority to get working. When asked, reviewers said that they wanted to be prompted for which version of each song that is being transferred, however most popular songs have multiple versions. This would likely become tedious and take away from user experience. We have decided that a toggle switch for this feature should be available for those who want it, but it will be turned off by default, and instead select the most popular version of each given song.
 
 
 ## Caveats
