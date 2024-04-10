@@ -26,13 +26,14 @@ When our software team demonstrated the progress of the development of the Roset
 From the informal feedback we were able to determine that the main platforms preferred by users were Spotify and Apple Music, YouTube Music, and some mentions from Soundcloud, Amazon Music, Tidal and Antennapod. We were also informed that users would like to be prompted and asked which version of a song should be added to the new service, when the new service has multiple of the same song (cover songs, remixes, etc), but there was also some feedback saying that users might like a toggle for this feature. Users were in favor of podcasts also being moved between services in the future.
 
 ## Conclusions
-
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 ### Cognitive walkthrough
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
 ### Informal Feedback
 !!!FILL IN FOR INFORMAL FEEDBACK
+Based on the informal feedback we can conclude that while many streaming services would make great additions to the Rosetta Song app, Youtube Muisc, Apple Music and Spotify are by far the most prevalent, and these three platforms are much higher priority to get working. When asked, reviewers said that they wanted to be prompted for which version of each song that is being transfered, however most popular songs have multiple versions. This would likely become tedious and take away from user experience. We have decided that a toggle switch for this feature should be available for those who want it, but it will be turned off by default, and instead select the most popular verion of each given song.
+
 
 ## Caveats
 ### Cognitive walkthrough
