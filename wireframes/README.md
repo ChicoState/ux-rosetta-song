@@ -20,7 +20,7 @@ If the user is new to our service or needs to create a new account, all they hav
 
 ## Streaming Service Sign-in
 
-This stage of sign-in is crucial to the function of our app. Since we are sending playlists through multiple music streaming services, we require the user to log into at least two of the music services that they would like to use with our website. It does not matter which two of the services we offer are logged in and the user is more than welcome to log into more than two. The continue button will not be visible until the user has two services connected to ensure the smooth operation of the website.
+This stage of sign-in is crucial to the function of our app. Since we are sending playlists through multiple music streaming services, we require the user to log into at least two of the music services that they would like to use with our website. It does not matter which two of the services we offer are logged into and the user is more than welcome to log into more than two. The continue button will not be visible until the user has two services connected to ensure the smooth operation of the website.
 
 ![Multi-service Connection](https://github.com/ChicoState/ux-rosetta-song/blob/9554719c31698d669d6fb1cbf3bc21988cfdec59/wireframes/3/3-1.png)
 
