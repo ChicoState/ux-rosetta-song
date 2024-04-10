@@ -27,7 +27,7 @@ From the informal feedback, we were able to determine that the main platforms pr
 ## Conclusions
 
 ### Cognitive walkthrough
-!!!FILL IN FOR COGNITIVE WALKTHROUGH
+Based on the Cognitive Walkthroughs that we recieved from our fellow Usability engineers, we can conclude that the progression of pages needs to be obvious and responsive. The issue that we have recieved the most during the Cognitive walkthroughs is that the system can seem some what unresponsive when the user would interact with it. When transferring playlists, users were unaware of when the transfer actually took place or if the transfer even happened to the correct service. Since most of our personnas mainly focus on adding or exchanging playlists, our wireframes were firstly focused on those features. This meant that personnas such as Amber's were ultimately harder to implement in the wireframes for the exercise. 
 
 ### Informal Feedback
 Based on the informal feedback we can conclude that while many streaming services would make great additions to the Rosetta Song app, YouTube Music, Apple Music, and Spotify are by far the most prevalent, and these three platforms are much higher priority to get working. When asked, reviewers said that they wanted to be prompted for which version of each song that is being transferred, however, most popular songs have multiple versions. This would likely become tedious and take away from user experience. We have decided that a toggle switch for this feature should be available for those who want it, but it will be turned off by default, and instead select the most popular version of each given song.
