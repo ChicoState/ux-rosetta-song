@@ -33,9 +33,9 @@ Rosetta Song is a web application that is meant to allow users to transfer playl
 
 **Executive Summary**
 
-* Our Team received **informal feedback** provided by some questions proposed at a demo, this helped our team establish what the user wants
+* Our Team received **Informal Feedback** provided by some questions proposed at a demo, this helped our team establish what the user wants
 * **Cognitive Walkthrough**, helped outline the ease and challenges our users could face using our designs
-* **WireFrames**, defined the overall scheme and visual representation of the site
+* **Wireframes**, defined the overall scheme and visual representation of the site
 
 [Full phase II report](phaseII/)
 
