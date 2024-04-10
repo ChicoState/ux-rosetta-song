@@ -2,7 +2,7 @@
 
 ## Greeting Page
 
-This is the front page that our users will see when they first visit the site. On this page, we have a brief about our service, with a picture and the supported services. From here our users will click the button in the top right of the page to log in or sign up.
+This is the front page that our users will see when they first visit Rosetta Song. On this page, we have a brief about our service, with a picture and the supported services. From here our users will click the button in the top right of the page to log in or sign up.
 
 ![Greeting Page](https://github.com/ChicoState/ux-rosetta-song/blob/2ce255ea0ec3c28acbf362dfaea43217a2f1bd8c/wireframes/1.png)
 
