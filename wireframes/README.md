@@ -50,5 +50,20 @@ Inside any of these expanded menus, the user can always hit the back button or c
 
 ## Transfer Cart
 
+Once the user is satisfied with the amount of playlists they have sent to the transfer cart, they can click on the cart button in the menu bar to redirect to that page. Here, the user will see all of the playlsits they have sent to the cart on the left box, with the service they playlists are coming from at the top. The user will be able to edit the cart but removing some or all of the playlists using the buttons on the right of the playlists or the empty cart button at the bottom. Once the user likes what is in their cart, they can select the service to transfer to from the drop down menu in the box on the right. The user will then click the button at the bottom of the page to complete the transfer.
 
+![Transfer Cart](https://github.com/ChicoState/ux-rosetta-song/blob/087d06afdef23a062b29e3953eb5e600a7b7fabe/wireframes/5/5-1.png)
+
+The user will be provided with feedback that their transfer has been completed byt showing the playlists in the second box as well as the button saying transfer complete.
+
+![Completed Transfer](https://github.com/ChicoState/ux-rosetta-song/blob/087d06afdef23a062b29e3953eb5e600a7b7fabe/wireframes/5/5-2.png)
+
+The user may return to the homepage, and the feedback will be reset so the next transfer can be completed.
+
+## Profile and Preferences Page
+
+If the user would like some personalization to their account, they may visit the profile page by clicking the icon in the top left of the menu bar. Upon visiting this page, the user will be shown two sections. The profile section at the top will show a changable profile image, as well as relevant stats about the user's account. 
+In the bottom perferences section, the user will be able to select settings to tailor the experience towards their liking. Additionally, we have added recovery options incase the user needs to reset their password, change their email, or delete their account.
+
+![Profile Page](https://github.com/ChicoState/ux-rosetta-song/blob/087d06afdef23a062b29e3953eb5e600a7b7fabe/wireframes/6.png)
 
