@@ -25,7 +25,7 @@ The Cognitive Walkthroughs that were provided for our team gave great insights i
 From the informal feedback, we were able to determine that the main platforms preferred by users were Spotify and Apple Music, YouTube Music, and some mentions from Soundcloud, Amazon Music, Tidal, and Antennapod. We were also informed that users would like to be prompted and asked which version of a song should be added to the new service when the new service has multiple of the same song (cover songs, remixes, etc), but there was also some feedback saying that users might like a toggle for this feature. Users were in favor of podcasts also being moved between services in the future.
 
 ## Conclusions
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+
 ### Cognitive walkthrough
 !!!FILL IN FOR COGNITIVE WALKTHROUGH
 
