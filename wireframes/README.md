@@ -33,4 +33,19 @@ After logging into at least two services, the main sign in landing page will dis
 ![2 Services Connected](https://github.com/ChicoState/ux-rosetta-song/blob/13e278dc04d2b92c8216abf02ad0fb2776c37720/wireframes/3/3-3.png)
 
 Finally, the user will be redirected to their own homepage. This page will show the user their connected services, as well as the playlsts associated with each service. The user can scroll left and right within each service to view more of their playlists.
-The user has many options to take from here. 
+The user has many options to take from here. If the user has already seen a playlist they would like to transfer, they can select it with a simple click, and then click the add button in the bottom left corner to send that playlist to the transfer cart. (Note: The user will not be able to add playlists from different services into the cart.) 
+Additionally, the user has buttons in the top menu bar that will take them to the cart, service login, and their profile page.
+
+![Homepage](https://github.com/ChicoState/ux-rosetta-song/blob/378f40b9095f6bd512524db862dc854c452b3a3d/wireframes/4/4-1.png)
+
+If the user has too many playlists and does not want to scroll to the right endlessly, they are able to click on the service icon to expand it and display the playlists in a much larger window. This larger window will display up to 20 playlists at a time, and if there are more the user can scroll down on the right. The add button carries over to this page so that the user can still send palylists to the transfer cart from here as well. 
+
+![Expanded Service Menu](https://github.com/ChicoState/ux-rosetta-song/blob/81b83f73b36fc6bb8e58f739d8636c6ba67bf529/wireframes/4/4-2.png)
+
+At any point, the user can double click on a playlist to view its contents, description, and various other relevant information. The add button carries over to this menu as well to ensure that the user can send playlists to the cart at any given time.
+
+![Playlist](https://github.com/ChicoState/ux-rosetta-song/blob/81b83f73b36fc6bb8e58f739d8636c6ba67bf529/wireframes/4/4-3.png)
+
+Inside any of these expanded menus, the user can always hit the back button or click on our logo to return to their homepage. The menu bar stays constant at the top for easy navigation.
+
+
