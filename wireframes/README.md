@@ -1,6 +1,6 @@
 # Wireframes
 
-## Greeting Page
+## Rosetta Song Greeting Page
 
 This is the front page that our users will see when they first visit Rosetta Song. On this page, we have a brief about our service, with a picture and the supported services. From here our users will click the button in the top right of the page to log in or sign up.
 
