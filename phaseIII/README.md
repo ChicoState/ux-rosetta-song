@@ -18,4 +18,4 @@
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+All participants of the study are college aged usability students, so they potentially may have acted differently than a random subset of participants based on their understanding of usability. Each participant took part of multiple prototype studies, so the later participants may have been fatigued from the previous studies. The Rosetta Song study had seven participants, so the impact of the small sample size could have had an impact on the results of the study.
