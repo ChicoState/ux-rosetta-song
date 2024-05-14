@@ -14,7 +14,7 @@ Our team utilized all our planning in order to conduct the user testing of our p
 Every participant had expereince with at least two music streaming services before the user study.  A vast majority of them (6/7 participants) had friends or family that used a different streaming service, and would be interested in sharing music with them. Every participant said that they would want to try alternative streaming services if it was seamless to change between them.
 
 ### Test results
-All of our tests had extremely high ratings from the partisipants in terms of statisfaction (m > 4.5/5) except for our task 1, (m = 3.86/5). When taking an average of all task ratings, the average came out to (m = 4.5/5) across all task, and the average (sd = .903). 
+All of our tests had extremely high ratings from the partisipants in terms of statisfaction (m > 4.5/5) except for our task 1, (m = 3.86/5). When taking an average of all task ratings, the average came out to (m = 4.5/5) across all task, and the (sd = .903). 
 
 Task 1 and task 3 were the only tasks to specifically be given criticism in the debrief, but task 1 much more so. A majority of participants either listed their least favorite part of the experience as the "transfer cart" or the "profile section". Task 1 also had the highest standard deviation (sd = 1.35), and had by far the most amount of variation in scores, along with task 3, which had the second highest (sd = 1.133).  
 
