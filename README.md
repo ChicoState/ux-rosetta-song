@@ -5,7 +5,7 @@ Rosetta Song is a web application that is meant to allow users to transfer playl
 
 ## UX Team Members
 
-* [Hayat White](https://github.com/ChicoState/ux-personal-portfolio-Hayat-White) - Heuristic Evaluation, Competative Analysis, Cognitive Analysis.
+* [Hayat White](https://github.com/ChicoState/ux-personal-portfolio-Hayat-White) - Heuristic Evaluation, Competative Analysis, Cognitive Analysis, IRB Forms, Draft protocols, Usability Test Planning, User Testing.
 * [Riley Spas](https://github.com/ChicoState/ux-personal-portfolio-rileyspas21) - Heuristic Evaluation, Competative Analysis, Informal Feedback.
 * [Sean Evpak](https://github.com/ChicoState/ux-personal-portfolio-sevpak) - Heuristic Evaluation, Competative Analysis, Wireframe.
   
