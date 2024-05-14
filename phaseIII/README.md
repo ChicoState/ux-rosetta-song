@@ -3,7 +3,8 @@
 ## Introduction
 
 Phase III's sole purpose was to test the Rosetta Song prototype with a user test. By conducting user tests, our team aims to identify user preferences, find problematic aspects of the prototype, and note opportunities for improvement in the prototype's design and functionality.
-
+## Draft Protocol
+[Draft Protocol](../phaseIII/x18_Draft_protocol.pdf)
 ## Methods
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
