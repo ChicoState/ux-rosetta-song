@@ -34,15 +34,13 @@ Every participant had experience with at least two music streaming services befo
 
 ### Test results
 
-All of our tests had extremely high ratings from the participants in terms of satisfaction (m > 4.5/5) except for our task 1, (m = 3.86/5). When taking an average of all task ratings, the average came out to (m = 4.5/5) across all tasks, and the (sd = .903). 
+All of our tests had extremely high ratings from the participants in terms of satisfaction (m > 4.5/5) except for our task 1, (m = 3.86/5, sd = 1.35). When taking an average of all task ratings, the average came out to (m = 4.5/5) across all tasks, and the (sd = .903). 
 
 
 
-Task 1 and task 3 were the only tasks to specifically be given criticism in the debrief, but task 1 was much more so. A majority of participants either listed their least favorite part of the experience as the "transfer cart" or the "profile section". Task 1 also had the highest standard deviation (sd = 1.35), and had by far the most amount of variation in scores, along with task 3, which had the second highest (sd = 1.133).  
+Task 1 and task 3 were the only tasks to specifically be given criticism in the debrief, but task 1 was much more so. A majority of participants either listed their least favorite part of the experience as the "transfer cart" or the "profile section". Task 1 also had (m = 3.86, sd = 1.35), and had by far the most amount of variation in scores. Task 3 had (m = 4.57, sd = 1.13) which alos had a large variation which had the second highest standard deviation.
 
-
-
-Tasks 2 and 4 both had high satisfaction with (m > 4.7/5) and (sd < 0.8). 
+Tasks 2 had (m = 4.71, sd = 0.756) and task 4 had (m = 8.56, sd = 0.378) giving them both very high satisfaction.
 
 
 
