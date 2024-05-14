@@ -11,7 +11,7 @@ Our team utilized all our planning in order to conduct the user testing of our p
 ## Findings
 
 ### Background
-Every participant had expereince with at least two music streaming services before the user study.  A vast majority of them (6/7 participants) had friends or family that used a different streaming service, and would be interested in sharing music with them.  
+Every participant had expereince with at least two music streaming services before the user study.  A vast majority of them (6/7 participants) had friends or family that used a different streaming service, and would be interested in sharing music with them. Every participant said that they would want to try alternative streaming services if it was seamless to change between them.
 
 All of our tests had extremely high ratings from the partisipants in terms of statisfaction (m > 4.5/5) except for our task 1, (m = 3.86/5). When taking an average of all task ratings, the average came out to (m = 4.5/5) across all task, and the average (sd = .903). 
 
