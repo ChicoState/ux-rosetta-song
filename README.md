@@ -43,9 +43,10 @@ Rosetta Song is a web application that is meant to allow users to transfer playl
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Created** the **Usability test Planning**, established what our test is meant to be doing and what kind of objectives our prototype is meant to accomplish
+* **Draft Protocol**, Our teams outline of how the user test is meant to be conducted with the introduction, tasks and debrief
+* Our team created and got our **IRB Form** Confirmed for **User Testing**, this helped us make sure we did our research in a safe and ethical manor
+* **User Tests**, allowed our team to properly gauge how usable our prototype is for our product
+
 
 [Full phase III report](phaseIII/)
