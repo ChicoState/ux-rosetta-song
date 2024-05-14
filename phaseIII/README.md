@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Phase III's sole purpose was to test the Rosetta Song prototype with a user test. By conducting user tests, our team aims to identify user preferences, find problematic aspects of the prototype, and note opportunities for improvement in the prototype's design and functionality.
 
 ## Methods
 
@@ -18,4 +18,4 @@
 
 ## Caveats
 
-All participants of the study are college aged usability students, so they potentially may have acted differently than a random subset of participants based on their understanding of usability. Each participant took part of multiple prototype studies, so the later participants may have been fatigued from the previous studies. The Rosetta Song study had seven participants, so the impact of the small sample size could have had an impact on the results of the study.
+All participants of the study are college aged usability students, so they potentially may have interacted with the prototype differently than a random subset of participants would have. Each participant took part in multiple user tests, so the later participants may have been fatigued from the previous studies. The Rosetta Song study had seven participants, so the impact of a small sample size could have had an effect on the results of the study.
