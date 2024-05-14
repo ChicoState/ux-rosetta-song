@@ -21,7 +21,7 @@ Task 1 and task 3 were the only tasks to specifically be given criticism in the 
 Task 2 and 4 both had a high satisfaction with (m > 4.7/5) and (sd < 0.8). 
 
 ### Duration
-Every task was completed in under 5 minutes, and many participants completed tasks in under 1 minute, making (m < 3) minutes per task. Every task was completed by every participant, except for one time in task 1, and one time in task 3, who were then given a hint and were able to complete the task(still marked as failure).
+Every task was completed in under 5 minutes, and many participants completed tasks in under 1 minute, making (m < 3) minutes per task. Every task was completed by every participant, except for one time in task 1, and one time in task 3, who were then given a hint and were able to complete the task (still marked as failure).
 
 ## Conclusions
 
