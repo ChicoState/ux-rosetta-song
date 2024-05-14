@@ -14,7 +14,8 @@ All of our tests had extremely high ratings from the partisipants in terms of st
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+As shown by our data, task 1 appeared to be the most challenging for the participants. This task requires the participant to use the main feature of our product, the playlist transferer. One participant seemed to get lost through the menus, eventually looping back and repeating a cycle that did not make progress toward the task. The two main points we took away from that task were the misunderstandings of the word "cart" and the possibility of having too many buttons.
+Overall though, our findings show that the most common concern from participants was the ambiguity of the  "transfer cart" idea. In our prototype, the transfer cart is displayed as a small button at the top that says "cart". Some participants noted that it led them to believe they were purchasing something, and was the reason they did not click on it during the tasks. Looking back this makes sense, as it is a common convention for a cart to be related to purchasing. To follow up on that, we have pondered alternatives such as labeling the button "transfer cart" instead of just "cart". Additionally, dropping the "cart" entirely would resolve this issue. Issues with the profile button were less mentioned but were still addressed. One concern was that it was easy to miss and the participant suggested adding the name to the profile button. We thought this was a good idea as it would reinforce and draw attention to that aspect.
 
 ## Caveats
 
